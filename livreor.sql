@@ -65,11 +65,7 @@ CREATE TABLE IF NOT EXISTS `utilisateurs` (
 --
 
 INSERT INTO `utilisateurs` (`id`, `login`, `password`) VALUES
-(1, 'Katakuri1313', 'lolo'),
-(2, 'God', 'usopp'),
-(3, 'Katakuri1345', 'lop'),
-(4, 'Kata13', 'lolo'),
-(5, 'kata', 'kata');
+
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
